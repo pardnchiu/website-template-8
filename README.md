@@ -5,7 +5,7 @@
 - 預覽: [Github.io](https://pardnchiu.github.io/website-template-8/)
 - 源碼: [Github.com](https://github.com/pardnchiu/website-template-8/)
 - 授權: [MIT LICENSE](https://github.com/pardnchiu/website-template-8/blob/main/LICENSE)
-- 開發: [Pardn Chiu](https://joball.tw/@pardnltd)
+- 開發: [Pardn Chiu 邱敬幃](https://joball.tw/@pardnltd)
 
 ***
 
