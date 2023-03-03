@@ -1,9 +1,9 @@
-# 網站模板 8
+# Website Template 網站模板 8
 
 ***
 
-- 預覽: [Github.io](https://pardnchiu.github.io/website-template-8)
-- 源碼: [Github.com](https://github.com/pardnchiu/website-template-8)
+- 預覽: [Github.io](https://pardnchiu.github.io/website-template-8/)
+- 源碼: [Github.com](https://github.com/pardnchiu/website-template-8/)
 - 授權: [MIT LICENSE](https://github.com/pardnchiu/website-template-8/blob/main/LICENSE)
 - 開發: [Pardn Chiu](https://joball.tw/@pardnltd)
 
@@ -17,7 +17,7 @@
 
 | index |
 |---|
-| ![T001](./image/index.jpg) |
+| ![index](./image/index.jpg) |
 
 ***
 
